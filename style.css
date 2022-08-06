@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    margin: 0;
+    
+    background:linear-gradient(#F4C430 20%, white 50%, green 100%); ;
+}
+.Creator_name {
+    text-align: right;
+    margin-left: 800px;
+}
